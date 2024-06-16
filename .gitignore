@@ -8,6 +8,9 @@
 *.obj
 **/bin/
 **/obj/
+BackEnd/ToDo.Api/obj/
+BackEnd/ToDo.Data/obj/
+BackEnd/ToDo.Domain/obj/
 
 # Precompiled Headers
 *.gch
